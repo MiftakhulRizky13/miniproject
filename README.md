@@ -1,4 +1,4 @@
-# expensetracker
+# Aplikasi "Income & Expanses Tracking"
 
 A new Flutter project.
 
