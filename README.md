@@ -1,6 +1,6 @@
 # Aplikasi "Income & Expanses Tracking"
 
-A new Flutter project.
+Untuk pengerjaan mini project
 
 ## Getting Started
 
